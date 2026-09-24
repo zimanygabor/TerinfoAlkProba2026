@@ -52,6 +52,6 @@ Szentirmai Soma Pesti bevándorló
 
 Szépvölgyi Zétény
 
-Zimány Gábor
+Zimány Gábor alma
 
 Kalicz Péter Kunhegyes
