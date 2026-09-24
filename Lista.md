@@ -30,7 +30,7 @@ Laczkovich Dániel
 
 Lőrincz Tamás
 
-Müller Dániel István Bicske   
+Müller Dániel István
 
 Patthy Domonkos
 
@@ -52,6 +52,6 @@ Szentirmai Soma Pesti bevándorló
 
 Szépvölgyi Zétény
 
-Zimány Gábor
+Zimány Gábor van a szobámba fál zsemle
 
 Kalicz Péter Kunhegyes
