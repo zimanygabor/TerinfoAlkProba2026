@@ -48,10 +48,10 @@ Szabó Máté
 
 Szegi Bertalan
 
-Szentirmai Soma Pesti bevándorló
+Szentirmai Soma
 
 Szépvölgyi Zétény
 
-Zimány Gábor
+Zimány Gábor 1234
 
 Kalicz Péter Kunhegyes
